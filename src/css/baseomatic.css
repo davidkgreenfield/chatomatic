@@ -1,0 +1,45 @@
+.bold{
+    font-weight: bold;
+}
+
+.margin-top-1rem{
+    margin-top: 1rem;
+}
+
+.playerSpinner{
+    display: flex;
+    justify-content: center;
+}
+
+.ant-layout-content{
+    background-color: white;
+    padding-left: 1rem;
+}
+
+.ant-card{
+    box-shadow: 2px 2px 15px #77b7f3;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ant-card-meta{
+    background-color: #1890ff;
+    color: white;
+}
+
+.ant-card-body{
+    border: #1890ff;
+    border-width: medium;
+}
+
+.ant-table-wrapper{
+    box-shadow: 2px 2px 15px #77b7f3;
+}
+
+.ant-table-row{
+    cursor: pointer;
+}
+
+.ant-table-thead tr th{
+    background-color: #1890ff;
+}

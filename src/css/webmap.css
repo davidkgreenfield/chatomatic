@@ -1,0 +1,15 @@
+.webmap {
+    height: 100vh;
+    z-index:1;
+}
+
+.mapOverlay {
+    background-color: white;
+    opacity: 0.75;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top:16rem;
+    left:36rem;
+    z-index: 2;
+}

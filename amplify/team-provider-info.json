@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-chatomatic-dev-125221-authRole",
+            "UnauthRoleArn": "arn:aws:iam::655375493662:role/amplify-chatomatic-dev-125221-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::655375493662:role/amplify-chatomatic-dev-125221-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-chatomatic-dev-125221-deployment",
+            "UnauthRoleName": "amplify-chatomatic-dev-125221-unauthRole",
+            "StackName": "amplify-chatomatic-dev-125221",
+            "StackId": "arn:aws:cloudformation:us-east-1:655375493662:stack/amplify-chatomatic-dev-125221/bb38c0e0-e6fb-11ea-b7c6-0ee443750bc7",
+            "AmplifyAppId": "d1dem2m0mk4pku"
+        },
+        "categories": {
+            "auth": {
+                "chatomatic2c10e3d1": {}
+            }
+        }
+    }
+}
