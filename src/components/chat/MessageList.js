@@ -7,6 +7,7 @@ const MessageList = ({ messages }) => (
       <li className="message" key={message.id}>
         <div>
           {message.senderId}
+
         </div>
         <div>
           {message.text}
