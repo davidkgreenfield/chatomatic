@@ -13,7 +13,9 @@
         },
         "categories": {
             "auth": {
-                "chatomatic2c10e3d1": {}
+                "chatomatic2c10e3d1": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"2732079550445715\",\"client_secret\":\"6b912b1e48df196cc289315f8f8714dc\"}]"
+                }
             }
         }
     }
