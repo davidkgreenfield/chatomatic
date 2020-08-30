@@ -10,13 +10,6 @@
             "StackName": "amplify-chatomatic-dev-125221",
             "StackId": "arn:aws:cloudformation:us-east-1:655375493662:stack/amplify-chatomatic-dev-125221/bb38c0e0-e6fb-11ea-b7c6-0ee443750bc7",
             "AmplifyAppId": "d1dem2m0mk4pku"
-        },
-        "categories": {
-            "auth": {
-                "chatomatic2c10e3d1": {
-                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"2732079550445715\",\"client_secret\":\"6b912b1e48df196cc289315f8f8714dc\"}]"
-                }
-            }
         }
     }
 }
