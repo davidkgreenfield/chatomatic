@@ -1,9 +1,1 @@
-{
-	"auth": {
-		"chatomatic6015a874": {
-			"service": "Cognito",
-			"providerPlugin": "awscloudformation",
-			"dependsOn": []
-		}
-	}
-}
+{}
