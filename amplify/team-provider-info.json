@@ -1,0 +1,28 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-chatomatic-dev-181527-authRole",
+            "UnauthRoleArn": "arn:aws:iam::655375493662:role/amplify-chatomatic-dev-181527-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::655375493662:role/amplify-chatomatic-dev-181527-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-chatomatic-dev-181527-deployment",
+            "UnauthRoleName": "amplify-chatomatic-dev-181527-unauthRole",
+            "StackName": "amplify-chatomatic-dev-181527",
+            "StackId": "arn:aws:cloudformation:us-east-1:655375493662:stack/amplify-chatomatic-dev-181527/31626c90-ed72-11ea-8fb0-0a4fdb0c1726",
+            "AmplifyAppId": "dkph0zsjbt7k9"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dkph0zsjbt7k9",
+                    "type": "manual"
+                }
+            },
+            "auth": {
+                "chatomaticcd39b423": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"2732079550445715\",\"client_secret\":\"6b912b1e48df196cc289315f8f8714dc\"}]"
+                }
+            }
+        }
+    }
+}
